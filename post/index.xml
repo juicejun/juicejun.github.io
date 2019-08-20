@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on juicejun哒窝窝</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on juicejun哒窝窝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 20 Aug 2019 11:50:45 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何用hugo搭建个人博客</title>
+      <link>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 20 Aug 2019 11:50:45 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>1.进入 hugo 官网，点击 Quick Start 进入。按照步骤去做。 2.安装 hugo。 windows安装 进入 Hugo Releases 页面，点击 Assets,下载 hugo_XXX_Win</description>
+    </item>
+    
+    <item>
+      <title>开博大吉</title>
+      <link>http://localhost:1313/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <pubDate>Fri, 16 Aug 2019 14:35:06 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <description>大家好 我的博客开通了，希望我能写出好的博客给大家浏览.</description>
+    </item>
+    
+  </channel>
+</rss>
